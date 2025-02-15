@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋  <br><br>I'm Sree Hari, a computer science undergrad passionate about programming and web development.  <br><br>- 🌱 Currently learning React<br>- 💻 I enjoy building fun and useful projects  <br>- 📫 Feel free to reach out!  <br><br>Let’s create something awesome together! 🚀  <br>
+Hi there! 👋  <br><br>I'm Sree Hari, a computer science student who loves coding and web development.  <br><br>- 🌱 Working on my full-stack web development skills<br>- 💻 I enjoy building cool stuff (whether I finish them is another story)  <br>- 🎵 Big fan of music  <br><br>📫 Feel free to reach out, always happy to chat!  <br>
 
 
 ## 🌐 Socials:
